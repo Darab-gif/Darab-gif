@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Darab
 
 I'm an innovative and passionate Frontend Developer.
-<!--
-**Darab-gif/Darab-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working with ReactJs, TailwindCSS, Redux, Styled Component and NextJs.
+
+ - 🔭 I’m currently working with ReactJs, TailwindCSS, Redux, Styled Component and NextJs.
 
 - 🌱 I’m currently learning more on Redux and NextJs.
 
@@ -19,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I like travel and Reading.
--->
+
 
