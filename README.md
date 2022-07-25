@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Darab
 
-I'm an innovative and passionate Frontend Developer.
+I'm an innovative and passionate Self taught Frontend Developer.
 
 
 
